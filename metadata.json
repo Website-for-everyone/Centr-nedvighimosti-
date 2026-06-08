@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Luxe Mortgage Property Portal",
+  "description": "Premium lead generation site for mortgage and maternity capital, featuring minimalist light tones and high-end glassmorphism aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
